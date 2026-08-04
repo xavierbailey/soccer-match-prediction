@@ -1,6 +1,6 @@
 # Final Project: Predicting Soccer Match Outcomes Using Machine Learning
-AAI201: Machine Learning
-Xavier Bailey
+AAI201: Machine Learning  
+Xavier Bailey  
 August 3, 2026
 
 ## Overview
