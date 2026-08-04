@@ -20,4 +20,4 @@ All work has been pushed to this repository. The notebook includes:
 - Bias and fairness discussion
 - Reflection
 
-- This has been a wonderful class.
+This has been a wonderful class.
