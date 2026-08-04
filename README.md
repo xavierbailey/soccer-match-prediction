@@ -1,5 +1,7 @@
 # Final Project: Predicting Soccer Match Outcomes Using Machine Learning
-AAI201: Machine Learning  Xavier Bailey  August 3, 2026
+AAI201: Machine Learning  
+Xavier Bailey  
+August 3, 2026
 
 ## Overview
 This repository contains my final project for AAI201, which predicts soccer match outcomes (Home Win, Draw, or Away Win) using machine learning. The project includes data preprocessing, feature engineering based on pre-match team statistics, training and comparing four classification models, and a reflection on the results.
